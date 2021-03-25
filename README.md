@@ -42,7 +42,8 @@ You can find me on [![Twitter](https://img.shields.io/twitter/follow/deus_magna?
 Give a ⭐️ if this project helped you!
 
 ## Credits
-- UI/UX Design to [**Aldo Mora**](https://dribbble.com/sprezet?fbclid=IwAR0xj-zhQCkaSHBLBksLEO0VNgV_DBcBjPaWpNJ-FIKLkoxm1MBdC_2b7-8)
+- UI/UX Design to [**Sakin Kumar**](https://dribbble.com/shots/13905960-Signup-page-Concept-CreateWithAdobeXD)
+- Flutter Tutorial [**Diego Velasquez**](https://www.youtube.com/watch?v=f8jD8ixkXXk&ab_channel=diegoveloper)
 - Flutter [**Documentation**](https://flutter.io/docs/)
 
 ## Getting Started
